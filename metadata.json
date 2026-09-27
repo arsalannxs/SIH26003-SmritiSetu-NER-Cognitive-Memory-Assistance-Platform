@@ -1,0 +1,6 @@
+{
+  "name": "SmritiSetu NER — Cognitive & Memory Assistance",
+  "description": "AI-powered culturally inclusive cognitive gaming, memory assistance, and caregiver support platform for elderly individuals in the North Eastern Region (MDoNER SIH26003).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
